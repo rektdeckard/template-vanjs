@@ -1,0 +1,19 @@
+{
+  "name": "template-vanjs",
+  "version": "0.11.10",
+  "description": "A VanJS Template",
+  "main": "src/index.ts",
+  "repository": "https://github.com/rektdeckard/template-vanjs",
+  "author": "rektdeckard <friedtm@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4",
+    "vite": "^4.3.9"
+  }
+}
