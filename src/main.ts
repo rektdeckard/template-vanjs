@@ -1,4 +1,4 @@
-import van from "./van-0.11.10.min";
+import van from "./van-1.0.1.min";
 
 const { button, div, pre } = van.tags;
 
